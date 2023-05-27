@@ -7358,3 +7358,123 @@
 2023-05-25 05:27:26,816 [main] INFO logger_file - Registration info entered
 2023-05-25 05:27:27,083 [main] INFO logger_file - Sign up button was clicked
 2023-05-25 05:27:27,205 [main] INFO logger_file - User profile page was displayed
+2023-05-25 17:48:13,116 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:48:13,557 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:48:13,761 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:48:14,036 [main] INFO logger_file - login button was clicked
+2023-05-25 17:48:14,358 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:48:14,958 [main] INFO logger_file - Smart Home :selected
+2023-05-25 17:48:15,044 [main] INFO logger_file - kasa outdoor smart plug : was entered to be searched
+2023-05-25 17:48:15,297 [main] INFO logger_file - Search icon was clicked
+2023-05-25 17:48:15,551 [main] INFO logger_file - Searched item was clicked
+2023-05-25 17:48:15,820 [main] INFO logger_file - 2 number of item was selected
+2023-05-25 17:48:16,068 [main] INFO logger_file - Add to cart button was clicked
+2023-05-25 17:48:16,069 [main] INFO logger_file - 2 number of items was added to the cart
+2023-05-25 17:48:20,187 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:48:20,586 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:48:20,818 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:48:21,105 [main] INFO logger_file - login button was clicked
+2023-05-25 17:48:21,306 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:48:21,898 [main] INFO logger_file - Electronics :selected
+2023-05-25 17:48:21,953 [main] INFO logger_file - Apex Legends : was entered to be searched
+2023-05-25 17:48:22,204 [main] INFO logger_file - Search icon was clicked
+2023-05-25 17:48:22,457 [main] INFO logger_file - Searched item was clicked
+2023-05-25 17:48:22,733 [main] INFO logger_file - 5 was selected for quantity
+2023-05-25 17:48:22,977 [main] INFO logger_file - Add to cart button was clicked
+2023-05-25 17:48:22,977 [main] INFO logger_file - 5 number of items were added to the cart
+2023-05-25 17:48:23,239 [main] INFO logger_file - Cart option was clicked
+2023-05-25 17:48:23,494 [main] INFO logger_file - Procceed to checkout button was clicked
+2023-05-25 17:48:23,740 [main] INFO logger_file - Place your order button was clicked
+2023-05-25 17:48:24,353 [main] INFO logger_file - Order Placed Successfully ,message was displayed
+2023-05-25 17:48:24,390 [main] INFO logger_file - Order Placed Thanks was displayed
+2023-05-25 17:48:31,157 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:48:31,467 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:48:31,637 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:48:31,897 [main] INFO logger_file - login button was clicked
+2023-05-25 17:48:32,073 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:48:32,386 [main] INFO logger_file - Order section was clicked
+2023-05-25 17:48:32,840 [main] INFO logger_file - Return item button was clicked
+2023-05-25 17:48:33,118 [main] INFO logger_file - Item damaged , was selected as reason
+2023-05-25 17:48:33,642 [main] INFO logger_file - FedEx was selected as dropoff service
+2023-05-25 17:48:33,888 [main] INFO logger_file - Return order button was clicked
+2023-05-25 17:48:33,931 [main] INFO logger_file - Return was successful was displayed
+2023-05-25 17:48:37,723 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:48:38,044 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:48:38,206 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:48:38,468 [main] INFO logger_file - login button was clicked
+2023-05-25 17:48:38,645 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:48:38,918 [main] INFO logger_file - Order section was clicked
+2023-05-25 17:48:39,457 [main] INFO logger_file - Cancel order button was clicked
+2023-05-25 17:48:39,728 [main] INFO logger_file - Bought wrong item was selected as reason
+2023-05-25 17:48:39,975 [main] INFO logger_file - Cancel order button was clicked
+2023-05-25 17:48:39,994 [main] INFO logger_file - Your Order Has Been Cancelled , was displayed
+2023-05-25 17:48:43,953 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:48:44,260 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:48:44,428 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:48:44,685 [main] INFO logger_file - login button was clicked
+2023-05-25 17:48:44,871 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:48:45,162 [main] INFO logger_file - Order section was clicked
+2023-05-25 17:48:45,571 [main] INFO logger_file - Review button was clicked
+2023-05-25 17:48:45,699 [main] INFO logger_file - Review headline entered
+2023-05-25 17:48:45,781 [main] INFO logger_file - Would recommend to a friend was entered as review
+2023-05-25 17:48:46,066 [main] INFO logger_file - Add your review button was clicked
+2023-05-25 17:49:08,577 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:49:08,976 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:49:09,174 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:49:09,438 [main] INFO logger_file - login button was clicked
+2023-05-25 17:49:09,598 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:49:10,180 [main] INFO logger_file - Smart Home :selected
+2023-05-25 17:49:10,250 [main] INFO logger_file - kasa outdoor smart plug : was entered to be searched
+2023-05-25 17:49:10,500 [main] INFO logger_file - Search icon was clicked
+2023-05-25 17:49:10,755 [main] INFO logger_file - Searched item was clicked
+2023-05-25 17:49:11,024 [main] INFO logger_file - 2 number of item was selected
+2023-05-25 17:49:11,269 [main] INFO logger_file - Add to cart button was clicked
+2023-05-25 17:49:11,270 [main] INFO logger_file - 2 number of items was added to the cart
+2023-05-25 17:49:18,450 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:49:18,778 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:49:18,950 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:49:19,209 [main] INFO logger_file - login button was clicked
+2023-05-25 17:49:19,360 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:49:19,941 [main] INFO logger_file - Electronics :selected
+2023-05-25 17:49:20,002 [main] INFO logger_file - Apex Legends : was entered to be searched
+2023-05-25 17:49:20,253 [main] INFO logger_file - Search icon was clicked
+2023-05-25 17:49:20,519 [main] INFO logger_file - Searched item was clicked
+2023-05-25 17:49:20,784 [main] INFO logger_file - 5 was selected for quantity
+2023-05-25 17:49:21,032 [main] INFO logger_file - Add to cart button was clicked
+2023-05-25 17:49:21,033 [main] INFO logger_file - 5 number of items were added to the cart
+2023-05-25 17:49:21,303 [main] INFO logger_file - Cart option was clicked
+2023-05-25 17:49:21,558 [main] INFO logger_file - Procceed to checkout button was clicked
+2023-05-25 17:49:21,827 [main] INFO logger_file - Place your order button was clicked
+2023-05-25 17:49:22,412 [main] INFO logger_file - Order Placed Successfully ,message was displayed
+2023-05-25 17:49:22,506 [main] INFO logger_file - Order Placed Thanks was displayed
+2023-05-25 17:49:28,321 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:49:28,640 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:49:28,798 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:49:29,061 [main] INFO logger_file - login button was clicked
+2023-05-25 17:49:29,277 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:49:29,569 [main] INFO logger_file - Order section was clicked
+2023-05-25 17:49:29,999 [main] INFO logger_file - Return item button was clicked
+2023-05-25 17:49:30,288 [main] INFO logger_file - Item damaged , was selected as reason
+2023-05-25 17:49:30,798 [main] INFO logger_file - FedEx was selected as dropoff service
+2023-05-25 17:49:31,044 [main] INFO logger_file - Return order button was clicked
+2023-05-25 17:49:31,089 [main] INFO logger_file - Return was successful was displayed
+2023-05-25 17:49:35,091 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:49:35,409 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:49:35,572 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:49:35,828 [main] INFO logger_file - login button was clicked
+2023-05-25 17:49:35,987 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:49:36,264 [main] INFO logger_file - Order section was clicked
+2023-05-25 17:49:36,709 [main] INFO logger_file - Cancel order button was clicked
+2023-05-25 17:49:36,981 [main] INFO logger_file - Bought wrong item was selected as reason
+2023-05-25 17:49:37,224 [main] INFO logger_file - Cancel order button was clicked
+2023-05-25 17:49:37,243 [main] INFO logger_file - Your Order Has Been Cancelled , was displayed
+2023-05-25 17:49:41,194 [main] INFO logger_file - Retail website opened and verified
+2023-05-25 17:49:41,501 [main] INFO logger_file - Sign In button was clicked
+2023-05-25 17:49:41,662 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-25 17:49:41,924 [main] INFO logger_file - login button was clicked
+2023-05-25 17:49:42,071 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-25 17:49:42,367 [main] INFO logger_file - Order section was clicked
+2023-05-25 17:49:42,777 [main] INFO logger_file - Review button was clicked
+2023-05-25 17:49:42,900 [main] INFO logger_file - Review headline entered
+2023-05-25 17:49:42,994 [main] INFO logger_file - Would recommend to a friend was entered as review
+2023-05-25 17:49:43,274 [main] INFO logger_file - Add your review button was clicked
