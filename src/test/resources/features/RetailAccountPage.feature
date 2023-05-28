@@ -1,5 +1,5 @@
 @RetailAccountFeatures
-Feature: Retail Account Page @SmokeTest
+Feature: Retail Account Page @Regression
 
   #Note: For this feature you have to have an account and be logged in into account. Repeated steps are under Background Keyword
   Background: 
@@ -10,14 +10,14 @@ Feature: Retail Account Page @SmokeTest
     And User should be logged in into Account
     When User click on Account option
 
-  @UpdateProfile  @SmokeTest
+  @UpdateProfile  @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'Charlie Like' and Phone '540-540-5400'
+    And User update Name 'Charlie Chaplain' and Phone '442-658-0098'
     And User click on Update button
     Then User profile information should be updated
     And A message should be displayed name update 'Personal Information Updated Successfully'
 
-  @AddPaymentMethod  @SmokeTest
+  @AddPaymentMethod  @Regression
   Scenario: Verify User can add a payment method
     And User click on Add a payment method link
     And User fill Debit or credit card information
@@ -26,7 +26,7 @@ Feature: Retail Account Page @SmokeTest
     And User click on Add your card button
     Then A message should be displayed add payment 'Payment Method added successfully'
 
-  @EditDebitCard  @SmokeTest
+  @EditDebitCard  @Regression
   Scenario: Verify User can edit Debit or Credit card
     And User click on saved card image
     And User click on Edit option of card section
@@ -36,13 +36,13 @@ Feature: Retail Account Page @SmokeTest
     And User click on Update Your Card button
     Then A message should be displayed update payment 'Payment Method updated Successfully'
 
-  @RemoveDebitCard  @SmokeTest
+  @RemoveDebitCard  @Regression
   Scenario: Verify User can remove Debit or Credit card
     And User click on saved card image
     And User click on remove option of card section
     Then Payment details should be removed
 
-  @AddAddress  @SmokeTest
+  @AddAddress  @Regression
   Scenario: Verify User can add an Address
     And User click on Add address option
     And User fill address form with below information
@@ -51,7 +51,7 @@ Feature: Retail Account Page @SmokeTest
     And User click Add Your Address button
     Then A message should be displayed add address 'Address Added Successfully'
 
-  @EditAddress  @SmokeTest
+  @EditAddress  @Regression
   Scenario: Verify User can edit an Address added on account
     And User click on edit address option
     And User fill new address form with below information
@@ -60,12 +60,12 @@ Feature: Retail Account Page @SmokeTest
     And User click update Your Address button
     Then A message should be displayed update address 'Address Updated Successfully'
 
-  @RemoveAddress  @SmokeTest
+  @RemoveAddress  @Regression
   Scenario: Verify User can remove Address from Account
     And User click on remove option of Address section
     Then Address details should be removed
 
-  @ChangePassword  @SmokeTest
+  @ChangePassword  @Regression
   Scenario: Verify user can update password
     And User enter bellow information
       | previousPassword | newPassword      | confirmPassword  |

@@ -1,4 +1,4 @@
-@RetailOrderPageFreatures @SmokeTest
+@RetailOrderPageFreatures @Regression
 Feature: 
 
   Background: 
@@ -8,7 +8,7 @@ Feature:
     And User click on login button
     And User should be logged in into Account
 
-  @AddItemToCart @SmokeTest
+  @AddItemToCart @Regression
   Scenario: Verify User can add an item to cart
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
@@ -18,7 +18,7 @@ Feature:
     And User click add to Cart button
     Then The cart icon quantity should change to '2’
 
-  @PlaceOrderWithShipping @SmokeTest
+  @PlaceOrderWithShipping @Regression
   Scenario: Verify User can place an order with Shipping address and payment Method on file​​​​​​​
     And User change the category to 'Electronics'
     And User search for an item 'Apex Legends'
@@ -34,7 +34,7 @@ Feature:
     And A confirmation page should be displayed 'Order Placed Thanks'
 
   #Note: For the below scenarios, you need to first have orders in place. At least one order must be present
-  @ReturnOrder @SmokeTest
+  @ReturnOrder @Regression
   Scenario: Verify User can Return the order
     And User click on Orders section
     And User click on Return Items button
@@ -44,7 +44,7 @@ Feature:
     And User click on Return Order button
     Then A return message should be displayed 'Return was successful'
 
-  @CancelOrder @SmokeTest
+  @CancelOrder @Regression
   Scenario: Verify User can cancel the order
     And User click on Orders section
     And User click on Cancel The Order button
@@ -52,7 +52,7 @@ Feature:
     And User click on Cancel Order button
     Then A cancelation message should be displayed 'Your Order Has Been Cancelled'
 
-  @WriteReview @SmokeTest
+  @WriteReview @Regression
   Scenario: Verify User can write a review on order placed
     And User click on Orders section
     And User click on Review button

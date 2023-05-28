@@ -7478,3 +7478,616 @@
 2023-05-25 17:49:42,900 [main] INFO logger_file - Review headline entered
 2023-05-25 17:49:42,994 [main] INFO logger_file - Would recommend to a friend was entered as review
 2023-05-25 17:49:43,274 [main] INFO logger_file - Add your review button was clicked
+2023-05-28 12:26:51,805 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:26:52,174 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:26:52,353 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:26:52,621 [main] INFO logger_file - login button was clicked
+2023-05-28 12:26:52,789 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:26:53,134 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:26:53,369 [main] INFO logger_file - New name and phone number entered
+2023-05-28 12:28:18,633 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:28:19,016 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:28:19,214 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:28:19,499 [main] INFO logger_file - login button was clicked
+2023-05-28 12:28:19,743 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:28:20,063 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:28:20,275 [main] INFO logger_file - New name and phone number entered
+2023-05-28 12:28:20,566 [main] INFO logger_file - Update button was clicked
+2023-05-28 12:28:20,585 [main] INFO logger_file - Profile info updateted
+2023-05-28 12:28:21,150 [main] INFO logger_file - Profile update status: Personal Information Updated Successfully
+2023-05-28 12:28:25,178 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:28:25,510 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:28:25,664 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:28:25,926 [main] INFO logger_file - login button was clicked
+2023-05-28 12:28:26,097 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:28:26,486 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:28:26,742 [main] INFO logger_file - AddPayment link was clicked
+2023-05-28 12:28:27,488 [main] INFO logger_file - Card information was entered
+2023-05-28 12:28:32,783 [main] INFO logger_file - Add your card button was clicked
+2023-05-28 12:28:33,349 [main] INFO logger_file - Payment method addition status: Payment Method added successfully
+2023-05-28 12:28:38,246 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:28:38,560 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:28:38,733 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:28:38,990 [main] INFO logger_file - login button was clicked
+2023-05-28 12:28:39,159 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:28:39,495 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:28:39,752 [main] INFO logger_file - Saved card was clicked
+2023-05-28 12:28:40,008 [main] INFO logger_file - Edit card option was clicked
+2023-05-28 12:28:40,767 [main] INFO logger_file - Updated card info was entered
+2023-05-28 12:28:41,019 [main] INFO logger_file - Update card button was clicked
+2023-05-28 12:28:41,585 [main] INFO logger_file - Payment Method updatedPayment Method updated Successfully
+2023-05-28 12:28:48,040 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:28:48,352 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:28:48,512 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:28:48,764 [main] INFO logger_file - login button was clicked
+2023-05-28 12:28:48,912 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:28:49,234 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:28:50,132 [main] INFO logger_file - Saved card was clicked
+2023-05-28 12:28:50,386 [main] INFO logger_file - Remove card button was clicked
+2023-05-28 12:28:50,405 [main] INFO logger_file - Payment Method removed
+2023-05-28 12:28:54,231 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:28:54,537 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:28:54,697 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:28:54,952 [main] INFO logger_file - login button was clicked
+2023-05-28 12:28:55,103 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:28:55,396 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:28:55,674 [main] INFO logger_file - Add address button was clicked
+2023-05-28 12:28:56,385 [main] INFO logger_file - Address info entered
+2023-05-28 12:28:56,670 [main] INFO logger_file - Add your address button was clicked
+2023-05-28 12:28:57,231 [main] INFO logger_file - Address updated status: Address Added Successfully
+2023-05-28 12:29:01,257 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:01,562 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:29:01,714 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:29:01,968 [main] INFO logger_file - login button was clicked
+2023-05-28 12:29:02,196 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:29:02,557 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:29:02,816 [main] INFO logger_file - Edit Address button was clicked
+2023-05-28 12:29:03,658 [main] INFO logger_file - Updated address info was entered
+2023-05-28 12:29:03,951 [main] INFO logger_file - UpdateAddress button was clicked
+2023-05-28 12:29:04,513 [main] INFO logger_file - Address update status: Address Updated Successfully
+2023-05-28 12:29:10,845 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:11,159 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:29:11,324 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:29:11,587 [main] INFO logger_file - login button was clicked
+2023-05-28 12:29:11,725 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:29:12,011 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:29:12,276 [main] INFO logger_file - Remove Address button was clicked
+2023-05-28 12:29:12,301 [main] INFO logger_file - Address removed
+2023-05-28 12:29:16,860 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:17,173 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:29:17,330 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:29:17,588 [main] INFO logger_file - login button was clicked
+2023-05-28 12:29:17,756 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:29:18,045 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:29:18,272 [main] INFO logger_file - Change password button was clicked
+2023-05-28 12:29:18,519 [main] INFO logger_file - Change password button was clicked
+2023-05-28 12:29:19,126 [main] INFO logger_file - Password changed status: password changed successfully
+2023-05-28 12:29:26,421 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:26,720 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:29:26,722 [main] INFO logger_file - Sections verified
+2023-05-28 12:29:31,324 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:31,661 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:29:35,553 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:35,919 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:29:39,646 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:39,957 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:29:43,672 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:44,020 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:29:47,865 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:48,163 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:29:52,042 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:52,360 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:29:52,511 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:29:52,770 [main] INFO logger_file - login button was clicked
+2023-05-28 12:29:52,925 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:29:53,480 [main] INFO logger_file - Smart Home :selected
+2023-05-28 12:29:53,560 [main] INFO logger_file - kasa outdoor smart plug : was entered to be searched
+2023-05-28 12:29:53,818 [main] INFO logger_file - Search icon was clicked
+2023-05-28 12:29:54,060 [main] INFO logger_file - Searched item was clicked
+2023-05-28 12:29:54,315 [main] INFO logger_file - 2 number of item was selected
+2023-05-28 12:29:54,556 [main] INFO logger_file - Add to cart button was clicked
+2023-05-28 12:29:54,556 [main] INFO logger_file - 2 number of items was added to the cart
+2023-05-28 12:29:58,369 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:29:58,697 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:29:58,841 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:29:59,104 [main] INFO logger_file - login button was clicked
+2023-05-28 12:29:59,237 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:29:59,790 [main] INFO logger_file - Electronics :selected
+2023-05-28 12:29:59,855 [main] INFO logger_file - Apex Legends : was entered to be searched
+2023-05-28 12:30:00,105 [main] INFO logger_file - Search icon was clicked
+2023-05-28 12:30:00,351 [main] INFO logger_file - Searched item was clicked
+2023-05-28 12:30:00,606 [main] INFO logger_file - 5 was selected for quantity
+2023-05-28 12:30:00,844 [main] INFO logger_file - Add to cart button was clicked
+2023-05-28 12:30:00,845 [main] INFO logger_file - 5 number of items were added to the cart
+2023-05-28 12:30:01,106 [main] INFO logger_file - Cart option was clicked
+2023-05-28 12:30:01,352 [main] INFO logger_file - Procceed to checkout button was clicked
+2023-05-28 12:30:01,597 [main] INFO logger_file - Place your order button was clicked
+2023-05-28 12:30:02,273 [main] INFO logger_file - Order Placed Successfully ,message was displayed
+2023-05-28 12:30:02,318 [main] INFO logger_file - Order Placed Thanks was displayed
+2023-05-28 12:30:08,153 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:30:08,464 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:30:08,617 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:30:08,874 [main] INFO logger_file - login button was clicked
+2023-05-28 12:30:08,996 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:30:09,258 [main] INFO logger_file - Order section was clicked
+2023-05-28 12:30:09,746 [main] INFO logger_file - Return item button was clicked
+2023-05-28 12:30:10,009 [main] INFO logger_file - Item damaged , was selected as reason
+2023-05-28 12:30:10,501 [main] INFO logger_file - FedEx was selected as dropoff service
+2023-05-28 12:30:10,745 [main] INFO logger_file - Return order button was clicked
+2023-05-28 12:30:10,783 [main] INFO logger_file - Return was successful was displayed
+2023-05-28 12:30:14,553 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:30:14,866 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:30:15,020 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:30:15,275 [main] INFO logger_file - login button was clicked
+2023-05-28 12:30:15,413 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:30:15,673 [main] INFO logger_file - Order section was clicked
+2023-05-28 12:30:16,096 [main] INFO logger_file - Cancel order button was clicked
+2023-05-28 12:30:16,375 [main] INFO logger_file - Bought wrong item was selected as reason
+2023-05-28 12:30:16,634 [main] INFO logger_file - Cancel order button was clicked
+2023-05-28 12:30:16,653 [main] INFO logger_file - Your Order Has Been Cancelled , was displayed
+2023-05-28 12:30:20,426 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:30:20,747 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:30:20,898 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:30:21,159 [main] INFO logger_file - login button was clicked
+2023-05-28 12:30:21,285 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:30:21,538 [main] INFO logger_file - Order section was clicked
+2023-05-28 12:30:22,182 [main] INFO logger_file - Review button was clicked
+2023-05-28 12:30:22,304 [main] INFO logger_file - Review headline entered
+2023-05-28 12:30:22,386 [main] INFO logger_file - Would recommend to a friend was entered as review
+2023-05-28 12:30:22,661 [main] INFO logger_file - Add your review button was clicked
+2023-05-28 12:30:27,118 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:30:27,431 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:30:27,580 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:30:27,833 [main] INFO logger_file - login button was clicked
+2023-05-28 12:30:27,974 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:30:31,819 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:30:32,141 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:30:32,392 [main] INFO logger_file - New account button was clicked
+2023-05-28 12:30:32,673 [main] INFO logger_file - Registration info entered
+2023-05-28 12:30:32,923 [main] INFO logger_file - Sign up button was clicked
+2023-05-28 12:31:30,193 [main] INFO logger_file - User profile page was displayed
+2023-05-28 12:36:13,304 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:36:13,649 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:36:13,809 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:36:14,078 [main] INFO logger_file - login button was clicked
+2023-05-28 12:36:14,227 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:36:14,588 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:36:14,835 [main] INFO logger_file - New name and phone number entered
+2023-05-28 12:36:15,138 [main] INFO logger_file - Update button was clicked
+2023-05-28 12:36:15,162 [main] INFO logger_file - Profile info updateted
+2023-05-28 12:36:15,736 [main] INFO logger_file - Profile update status: Personal Information Updated Successfully
+2023-05-28 12:36:19,810 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:36:20,123 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:36:20,289 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:36:20,541 [main] INFO logger_file - login button was clicked
+2023-05-28 12:36:20,852 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:36:21,207 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:36:21,473 [main] INFO logger_file - AddPayment link was clicked
+2023-05-28 12:36:22,247 [main] INFO logger_file - Card information was entered
+2023-05-28 12:36:27,539 [main] INFO logger_file - Add your card button was clicked
+2023-05-28 12:36:28,105 [main] INFO logger_file - Payment method addition status: Payment Method added successfully
+2023-05-28 12:36:32,800 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:36:33,121 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:36:33,275 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:36:33,541 [main] INFO logger_file - login button was clicked
+2023-05-28 12:36:33,693 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:36:34,049 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:36:34,852 [main] INFO logger_file - Saved card was clicked
+2023-05-28 12:36:35,107 [main] INFO logger_file - Edit card option was clicked
+2023-05-28 12:36:35,889 [main] INFO logger_file - Updated card info was entered
+2023-05-28 12:36:36,150 [main] INFO logger_file - Update card button was clicked
+2023-05-28 12:36:36,711 [main] INFO logger_file - Payment Method updatedPayment Method updated Successfully
+2023-05-28 12:36:43,135 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:36:43,452 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:36:43,598 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:36:43,859 [main] INFO logger_file - login button was clicked
+2023-05-28 12:36:44,121 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:36:44,414 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:36:45,270 [main] INFO logger_file - Saved card was clicked
+2023-05-28 12:36:45,522 [main] INFO logger_file - Remove card button was clicked
+2023-05-28 12:36:45,541 [main] INFO logger_file - Payment Method removed
+2023-05-28 12:36:49,472 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:36:49,771 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:36:49,927 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:36:50,182 [main] INFO logger_file - login button was clicked
+2023-05-28 12:36:50,411 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:36:50,758 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:36:51,019 [main] INFO logger_file - Add address button was clicked
+2023-05-28 12:36:51,770 [main] INFO logger_file - Address info entered
+2023-05-28 12:36:52,064 [main] INFO logger_file - Add your address button was clicked
+2023-05-28 12:36:52,636 [main] INFO logger_file - Address updated status: Address Added Successfully
+2023-05-28 12:36:59,318 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:36:59,640 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:36:59,787 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:37:00,042 [main] INFO logger_file - login button was clicked
+2023-05-28 12:37:00,332 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:37:00,607 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:37:00,885 [main] INFO logger_file - Edit Address button was clicked
+2023-05-28 12:37:01,768 [main] INFO logger_file - Updated address info was entered
+2023-05-28 12:37:02,062 [main] INFO logger_file - UpdateAddress button was clicked
+2023-05-28 12:37:02,644 [main] INFO logger_file - Address update status: Address Updated Successfully
+2023-05-28 12:37:09,152 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:09,466 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:37:09,610 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:37:09,874 [main] INFO logger_file - login button was clicked
+2023-05-28 12:37:10,389 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:37:10,687 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:37:10,926 [main] INFO logger_file - Remove Address button was clicked
+2023-05-28 12:37:10,945 [main] INFO logger_file - Address removed
+2023-05-28 12:37:14,792 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:15,102 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:37:15,271 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:37:15,523 [main] INFO logger_file - login button was clicked
+2023-05-28 12:37:15,670 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:37:15,951 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:37:16,202 [main] INFO logger_file - Change password button was clicked
+2023-05-28 12:37:16,444 [main] INFO logger_file - Change password button was clicked
+2023-05-28 12:37:17,170 [main] INFO logger_file - Password changed status: password changed successfully
+2023-05-28 12:37:21,001 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:21,312 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:37:21,313 [main] INFO logger_file - Sections verified
+2023-05-28 12:37:25,073 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:25,423 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:37:29,260 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:29,629 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:37:33,437 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:33,755 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:37:37,484 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:37,789 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:37:42,422 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:42,738 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:37:46,698 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:46,993 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:37:47,151 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:37:47,403 [main] INFO logger_file - login button was clicked
+2023-05-28 12:37:47,529 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:37:48,058 [main] INFO logger_file - Smart Home :selected
+2023-05-28 12:37:48,148 [main] INFO logger_file - kasa outdoor smart plug : was entered to be searched
+2023-05-28 12:37:48,409 [main] INFO logger_file - Search icon was clicked
+2023-05-28 12:37:48,656 [main] INFO logger_file - Searched item was clicked
+2023-05-28 12:37:48,930 [main] INFO logger_file - 2 number of item was selected
+2023-05-28 12:37:49,176 [main] INFO logger_file - Add to cart button was clicked
+2023-05-28 12:37:49,177 [main] INFO logger_file - 2 number of items was added to the cart
+2023-05-28 12:37:53,199 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:37:53,530 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:37:53,707 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:37:53,979 [main] INFO logger_file - login button was clicked
+2023-05-28 12:37:54,155 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:37:54,755 [main] INFO logger_file - Electronics :selected
+2023-05-28 12:37:54,810 [main] INFO logger_file - Apex Legends : was entered to be searched
+2023-05-28 12:37:55,065 [main] INFO logger_file - Search icon was clicked
+2023-05-28 12:37:55,310 [main] INFO logger_file - Searched item was clicked
+2023-05-28 12:37:55,560 [main] INFO logger_file - 5 was selected for quantity
+2023-05-28 12:37:55,803 [main] INFO logger_file - Add to cart button was clicked
+2023-05-28 12:37:55,803 [main] INFO logger_file - 5 number of items were added to the cart
+2023-05-28 12:37:56,075 [main] INFO logger_file - Cart option was clicked
+2023-05-28 12:37:56,338 [main] INFO logger_file - Procceed to checkout button was clicked
+2023-05-28 12:38:20,604 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:41:40,973 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:41:41,401 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:41:41,620 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:41:41,883 [main] INFO logger_file - login button was clicked
+2023-05-28 12:41:42,038 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:41:42,353 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:41:42,581 [main] INFO logger_file - New name and phone number entered
+2023-05-28 12:42:18,046 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:42:18,420 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:42:18,594 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:42:18,858 [main] INFO logger_file - login button was clicked
+2023-05-28 12:42:19,019 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:42:19,380 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:42:19,626 [main] INFO logger_file - New name and phone number entered
+2023-05-28 12:42:19,930 [main] INFO logger_file - Update button was clicked
+2023-05-28 12:42:19,950 [main] INFO logger_file - Profile info updateted
+2023-05-28 12:42:20,522 [main] INFO logger_file - Profile update status: Personal Information Updated Successfully
+2023-05-28 12:42:24,863 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:42:25,192 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:42:25,356 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:42:25,624 [main] INFO logger_file - login button was clicked
+2023-05-28 12:42:25,831 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:42:26,218 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:42:26,477 [main] INFO logger_file - AddPayment link was clicked
+2023-05-28 12:42:27,239 [main] INFO logger_file - Card information was entered
+2023-05-28 12:42:32,509 [main] INFO logger_file - Add your card button was clicked
+2023-05-28 12:42:33,072 [main] INFO logger_file - Payment method addition status: Payment Method added successfully
+2023-05-28 12:42:37,214 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:42:37,583 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:42:37,758 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:42:38,013 [main] INFO logger_file - login button was clicked
+2023-05-28 12:42:38,201 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:42:38,520 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:42:38,776 [main] INFO logger_file - Saved card was clicked
+2023-05-28 12:42:39,030 [main] INFO logger_file - Edit card option was clicked
+2023-05-28 12:42:39,807 [main] INFO logger_file - Updated card info was entered
+2023-05-28 12:42:40,057 [main] INFO logger_file - Update card button was clicked
+2023-05-28 12:42:40,614 [main] INFO logger_file - Payment Method updatedPayment Method updated Successfully
+2023-05-28 12:42:47,048 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:42:47,371 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:42:47,530 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:42:47,789 [main] INFO logger_file - login button was clicked
+2023-05-28 12:42:47,928 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:42:48,213 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:42:49,364 [main] INFO logger_file - Saved card was clicked
+2023-05-28 12:42:49,614 [main] INFO logger_file - Remove card button was clicked
+2023-05-28 12:42:49,635 [main] INFO logger_file - Payment Method removed
+2023-05-28 12:42:53,640 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:42:53,947 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:42:54,096 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:42:54,356 [main] INFO logger_file - login button was clicked
+2023-05-28 12:42:54,550 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:42:54,892 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:42:55,157 [main] INFO logger_file - Add address button was clicked
+2023-05-28 12:42:55,852 [main] INFO logger_file - Address info entered
+2023-05-28 12:42:56,131 [main] INFO logger_file - Add your address button was clicked
+2023-05-28 12:42:56,697 [main] INFO logger_file - Address updated status: Address Added Successfully
+2023-05-28 12:43:00,736 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:01,069 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:43:01,225 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:43:01,488 [main] INFO logger_file - login button was clicked
+2023-05-28 12:43:01,661 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:43:02,021 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:43:02,280 [main] INFO logger_file - Edit Address button was clicked
+2023-05-28 12:43:03,112 [main] INFO logger_file - Updated address info was entered
+2023-05-28 12:43:03,404 [main] INFO logger_file - UpdateAddress button was clicked
+2023-05-28 12:43:03,969 [main] INFO logger_file - Address update status: Address Updated Successfully
+2023-05-28 12:43:13,194 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:13,504 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:43:13,660 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:43:13,913 [main] INFO logger_file - login button was clicked
+2023-05-28 12:43:14,045 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:43:14,335 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:43:14,582 [main] INFO logger_file - Remove Address button was clicked
+2023-05-28 12:43:14,600 [main] INFO logger_file - Address removed
+2023-05-28 12:43:19,742 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:20,065 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:43:20,215 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:43:20,469 [main] INFO logger_file - login button was clicked
+2023-05-28 12:43:20,621 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:43:20,908 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:43:21,154 [main] INFO logger_file - Change password button was clicked
+2023-05-28 12:43:21,402 [main] INFO logger_file - Change password button was clicked
+2023-05-28 12:43:22,004 [main] INFO logger_file - Password changed status: password changed successfully
+2023-05-28 12:43:25,869 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:26,185 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:43:26,185 [main] INFO logger_file - Sections verified
+2023-05-28 12:43:29,946 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:30,302 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:43:34,416 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:34,729 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:43:38,769 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:39,079 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:43:42,976 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:43,283 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:43:47,162 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:47,472 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:43:51,386 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:51,698 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:43:51,853 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:43:52,109 [main] INFO logger_file - login button was clicked
+2023-05-28 12:43:52,254 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:43:52,823 [main] INFO logger_file - Smart Home :selected
+2023-05-28 12:43:52,902 [main] INFO logger_file - kasa outdoor smart plug : was entered to be searched
+2023-05-28 12:43:53,144 [main] INFO logger_file - Search icon was clicked
+2023-05-28 12:43:53,391 [main] INFO logger_file - Searched item was clicked
+2023-05-28 12:43:53,649 [main] INFO logger_file - 2 number of item was selected
+2023-05-28 12:43:53,907 [main] INFO logger_file - Add to cart button was clicked
+2023-05-28 12:43:53,908 [main] INFO logger_file - 2 number of items was added to the cart
+2023-05-28 12:43:57,783 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:43:58,106 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:43:58,259 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:43:58,519 [main] INFO logger_file - login button was clicked
+2023-05-28 12:43:58,678 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:43:59,220 [main] INFO logger_file - Electronics :selected
+2023-05-28 12:43:59,285 [main] INFO logger_file - Apex Legends : was entered to be searched
+2023-05-28 12:43:59,540 [main] INFO logger_file - Search icon was clicked
+2023-05-28 12:43:59,786 [main] INFO logger_file - Searched item was clicked
+2023-05-28 12:44:00,038 [main] INFO logger_file - 5 was selected for quantity
+2023-05-28 12:44:00,277 [main] INFO logger_file - Add to cart button was clicked
+2023-05-28 12:44:00,278 [main] INFO logger_file - 5 number of items were added to the cart
+2023-05-28 12:44:00,539 [main] INFO logger_file - Cart option was clicked
+2023-05-28 12:44:00,793 [main] INFO logger_file - Procceed to checkout button was clicked
+2023-05-28 12:44:01,042 [main] INFO logger_file - Place your order button was clicked
+2023-05-28 12:44:01,666 [main] INFO logger_file - Order Placed Successfully ,message was displayed
+2023-05-28 12:44:01,703 [main] INFO logger_file - Order Placed Thanks was displayed
+2023-05-28 12:44:07,573 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:44:07,886 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:44:08,042 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:44:08,294 [main] INFO logger_file - login button was clicked
+2023-05-28 12:44:08,436 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:44:08,699 [main] INFO logger_file - Order section was clicked
+2023-05-28 12:44:09,153 [main] INFO logger_file - Return item button was clicked
+2023-05-28 12:44:09,416 [main] INFO logger_file - Item damaged , was selected as reason
+2023-05-28 12:44:09,904 [main] INFO logger_file - FedEx was selected as dropoff service
+2023-05-28 12:44:10,148 [main] INFO logger_file - Return order button was clicked
+2023-05-28 12:44:10,184 [main] INFO logger_file - Return was successful was displayed
+2023-05-28 12:44:14,058 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:44:14,381 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:44:14,531 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:44:14,778 [main] INFO logger_file - login button was clicked
+2023-05-28 12:44:14,960 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:44:15,227 [main] INFO logger_file - Order section was clicked
+2023-05-28 12:44:15,560 [main] INFO logger_file - Cancel order button was clicked
+2023-05-28 12:44:15,839 [main] INFO logger_file - Bought wrong item was selected as reason
+2023-05-28 12:44:16,083 [main] INFO logger_file - Cancel order button was clicked
+2023-05-28 12:44:16,099 [main] INFO logger_file - Your Order Has Been Cancelled , was displayed
+2023-05-28 12:44:19,851 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:44:20,166 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:44:20,317 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:44:20,575 [main] INFO logger_file - login button was clicked
+2023-05-28 12:44:20,710 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:44:20,974 [main] INFO logger_file - Order section was clicked
+2023-05-28 12:44:21,626 [main] INFO logger_file - Review button was clicked
+2023-05-28 12:44:21,750 [main] INFO logger_file - Review headline entered
+2023-05-28 12:44:21,825 [main] INFO logger_file - Would recommend to a friend was entered as review
+2023-05-28 12:44:22,101 [main] INFO logger_file - Add your review button was clicked
+2023-05-28 12:44:26,678 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:44:27,005 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:44:27,154 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:44:27,408 [main] INFO logger_file - login button was clicked
+2023-05-28 12:44:27,541 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:44:31,459 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:44:31,770 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:44:32,021 [main] INFO logger_file - New account button was clicked
+2023-05-28 12:44:32,298 [main] INFO logger_file - Registration info entered
+2023-05-28 12:44:32,546 [main] INFO logger_file - Sign up button was clicked
+2023-05-28 12:46:44,720 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:46:45,144 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:46:45,341 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:46:45,614 [main] INFO logger_file - login button was clicked
+2023-05-28 12:46:45,787 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:46:46,092 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:46:46,336 [main] INFO logger_file - New name and phone number entered
+2023-05-28 12:46:46,631 [main] INFO logger_file - Update button was clicked
+2023-05-28 12:46:46,652 [main] INFO logger_file - Profile info updateted
+2023-05-28 12:46:47,224 [main] INFO logger_file - Profile update status: Personal Information Updated Successfully
+2023-05-28 12:46:51,151 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:46:51,477 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:46:51,647 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:46:51,903 [main] INFO logger_file - login button was clicked
+2023-05-28 12:46:52,055 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:46:52,364 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:46:52,652 [main] INFO logger_file - AddPayment link was clicked
+2023-05-28 12:46:53,395 [main] INFO logger_file - Card information was entered
+2023-05-28 12:46:58,667 [main] INFO logger_file - Add your card button was clicked
+2023-05-28 12:46:59,239 [main] INFO logger_file - Payment method addition status: Payment Method added successfully
+2023-05-28 12:47:03,686 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:04,005 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:47:04,171 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:47:04,429 [main] INFO logger_file - login button was clicked
+2023-05-28 12:47:04,585 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:47:04,934 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:47:05,208 [main] INFO logger_file - Saved card was clicked
+2023-05-28 12:47:05,459 [main] INFO logger_file - Edit card option was clicked
+2023-05-28 12:47:06,247 [main] INFO logger_file - Updated card info was entered
+2023-05-28 12:47:06,498 [main] INFO logger_file - Update card button was clicked
+2023-05-28 12:47:07,066 [main] INFO logger_file - Payment Method updatedPayment Method updated Successfully
+2023-05-28 12:47:13,319 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:13,634 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:47:13,780 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:47:14,038 [main] INFO logger_file - login button was clicked
+2023-05-28 12:47:14,191 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:47:14,479 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:47:15,550 [main] INFO logger_file - Saved card was clicked
+2023-05-28 12:47:15,804 [main] INFO logger_file - Remove card button was clicked
+2023-05-28 12:47:15,821 [main] INFO logger_file - Payment Method removed
+2023-05-28 12:47:20,189 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:20,501 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:47:20,656 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:47:20,925 [main] INFO logger_file - login button was clicked
+2023-05-28 12:47:21,114 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:47:21,392 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:47:21,666 [main] INFO logger_file - Add address button was clicked
+2023-05-28 12:47:22,441 [main] INFO logger_file - Address info entered
+2023-05-28 12:47:22,720 [main] INFO logger_file - Add your address button was clicked
+2023-05-28 12:47:23,284 [main] INFO logger_file - Address updated status: Address Added Successfully
+2023-05-28 12:47:27,610 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:27,918 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:47:28,065 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:47:28,317 [main] INFO logger_file - login button was clicked
+2023-05-28 12:47:28,506 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:47:28,809 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:47:29,069 [main] INFO logger_file - Edit Address button was clicked
+2023-05-28 12:47:29,948 [main] INFO logger_file - Updated address info was entered
+2023-05-28 12:47:30,239 [main] INFO logger_file - UpdateAddress button was clicked
+2023-05-28 12:47:30,805 [main] INFO logger_file - Address update status: Address Updated Successfully
+2023-05-28 12:47:34,783 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:35,077 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:47:35,219 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:47:35,472 [main] INFO logger_file - login button was clicked
+2023-05-28 12:47:35,782 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:47:36,073 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:47:36,682 [main] INFO logger_file - Remove Address button was clicked
+2023-05-28 12:47:36,701 [main] INFO logger_file - Address removed
+2023-05-28 12:47:40,470 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:40,778 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:47:40,918 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:47:41,182 [main] INFO logger_file - login button was clicked
+2023-05-28 12:47:41,318 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:47:41,607 [main] INFO logger_file - Account option was clicked
+2023-05-28 12:47:41,863 [main] INFO logger_file - Change password button was clicked
+2023-05-28 12:47:42,119 [main] INFO logger_file - Change password button was clicked
+2023-05-28 12:47:42,749 [main] INFO logger_file - Password changed status: password changed successfully
+2023-05-28 12:47:46,785 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:47,098 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:47:47,099 [main] INFO logger_file - Sections verified
+2023-05-28 12:47:51,184 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:51,493 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:47:55,292 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:55,611 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:47:59,348 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:47:59,676 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:48:03,506 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:48:03,858 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:48:07,714 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:48:08,024 [main] INFO logger_file - AllDepartment clicked
+2023-05-28 12:48:11,974 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:48:12,276 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:48:12,427 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:48:12,681 [main] INFO logger_file - login button was clicked
+2023-05-28 12:48:12,866 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:48:13,422 [main] INFO logger_file - Smart Home :selected
+2023-05-28 12:48:13,506 [main] INFO logger_file - kasa outdoor smart plug : was entered to be searched
+2023-05-28 12:48:13,759 [main] INFO logger_file - Search icon was clicked
+2023-05-28 12:48:14,000 [main] INFO logger_file - Searched item was clicked
+2023-05-28 12:48:14,264 [main] INFO logger_file - 2 number of item was selected
+2023-05-28 12:48:14,505 [main] INFO logger_file - Add to cart button was clicked
+2023-05-28 12:48:14,505 [main] INFO logger_file - 2 number of items was added to the cart
+2023-05-28 12:48:18,453 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:48:18,765 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:48:18,919 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:48:19,171 [main] INFO logger_file - login button was clicked
+2023-05-28 12:48:19,305 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:48:19,857 [main] INFO logger_file - Electronics :selected
+2023-05-28 12:48:19,923 [main] INFO logger_file - Apex Legends : was entered to be searched
+2023-05-28 12:48:20,165 [main] INFO logger_file - Search icon was clicked
+2023-05-28 12:48:20,407 [main] INFO logger_file - Searched item was clicked
+2023-05-28 12:48:20,673 [main] INFO logger_file - 5 was selected for quantity
+2023-05-28 12:48:20,913 [main] INFO logger_file - Add to cart button was clicked
+2023-05-28 12:48:20,915 [main] INFO logger_file - 5 number of items were added to the cart
+2023-05-28 12:48:21,176 [main] INFO logger_file - Cart option was clicked
+2023-05-28 12:48:21,424 [main] INFO logger_file - Procceed to checkout button was clicked
+2023-05-28 12:48:21,666 [main] INFO logger_file - Place your order button was clicked
+2023-05-28 12:48:22,273 [main] INFO logger_file - Order Placed Successfully ,message was displayed
+2023-05-28 12:48:22,315 [main] INFO logger_file - Order Placed Thanks was displayed
+2023-05-28 12:48:28,371 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:48:28,680 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:48:28,832 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:48:29,085 [main] INFO logger_file - login button was clicked
+2023-05-28 12:48:29,211 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:48:29,472 [main] INFO logger_file - Order section was clicked
+2023-05-28 12:48:30,042 [main] INFO logger_file - Return item button was clicked
+2023-05-28 12:48:30,304 [main] INFO logger_file - Item damaged , was selected as reason
+2023-05-28 12:48:30,799 [main] INFO logger_file - FedEx was selected as dropoff service
+2023-05-28 12:48:31,043 [main] INFO logger_file - Return order button was clicked
+2023-05-28 12:48:31,105 [main] INFO logger_file - Return was successful was displayed
+2023-05-28 12:48:35,764 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:48:36,073 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:48:36,241 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:48:36,500 [main] INFO logger_file - login button was clicked
+2023-05-28 12:48:36,626 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:48:36,882 [main] INFO logger_file - Order section was clicked
+2023-05-28 12:48:37,247 [main] INFO logger_file - Cancel order button was clicked
+2023-05-28 12:48:37,507 [main] INFO logger_file - Bought wrong item was selected as reason
+2023-05-28 12:48:37,747 [main] INFO logger_file - Cancel order button was clicked
+2023-05-28 12:48:37,767 [main] INFO logger_file - Your Order Has Been Cancelled , was displayed
+2023-05-28 12:48:41,572 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:48:41,893 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:48:42,043 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:48:42,299 [main] INFO logger_file - login button was clicked
+2023-05-28 12:48:42,451 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:48:42,701 [main] INFO logger_file - Order section was clicked
+2023-05-28 12:48:43,170 [main] INFO logger_file - Review button was clicked
+2023-05-28 12:48:43,298 [main] INFO logger_file - Review headline entered
+2023-05-28 12:48:43,382 [main] INFO logger_file - Would recommend to a friend was entered as review
+2023-05-28 12:48:43,656 [main] INFO logger_file - Add your review button was clicked
+2023-05-28 12:48:48,072 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:48:48,385 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:48:48,533 [main] INFO logger_file - jason5@gmail.com: and password was entered
+2023-05-28 12:48:48,792 [main] INFO logger_file - login button was clicked
+2023-05-28 12:48:48,941 [main] INFO logger_file - Account options verified and user has been logged in
+2023-05-28 12:48:52,878 [main] INFO logger_file - Retail website opened and verified
+2023-05-28 12:48:53,185 [main] INFO logger_file - Sign In button was clicked
+2023-05-28 12:48:53,436 [main] INFO logger_file - New account button was clicked
+2023-05-28 12:48:53,712 [main] INFO logger_file - Registration info entered
+2023-05-28 12:48:53,969 [main] INFO logger_file - Sign up button was clicked
+2023-05-28 12:48:54,089 [main] INFO logger_file - User profile page was displayed
