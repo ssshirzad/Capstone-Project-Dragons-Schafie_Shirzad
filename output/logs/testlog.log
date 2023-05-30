@@ -8164,3 +8164,13 @@
 2023-05-30 18:44:34,283 - logger_file -INFO - FedEx was selected as dropoff service
 2023-05-30 18:44:34,537 - logger_file -INFO - Return order button was clicked
 2023-05-30 18:44:34,580 - logger_file -INFO - Return was successful was displayed
+2023-05-30 19:42:32,661 - logger_file -INFO - Retail website opened and verified
+2023-05-30 19:42:33,135 - logger_file -INFO - Sign In button was clicked
+2023-05-30 19:42:33,338 - logger_file -INFO - jason5@gmail.com: and password was entered
+2023-05-30 19:42:33,607 - logger_file -INFO - login button was clicked
+2023-05-30 19:42:33,806 - logger_file -INFO - Account options verified and user has been logged in
+2023-05-30 19:42:34,093 - logger_file -INFO - Order section was clicked
+2023-05-30 19:42:34,383 - logger_file -INFO - Return item button was clicked
+2023-05-30 19:42:34,666 - logger_file -INFO - Item damaged , was selected as reason
+2023-05-30 19:42:35,175 - logger_file -INFO - FedEx was selected as dropoff service
+2023-05-30 19:42:35,443 - logger_file -INFO - Return order button was clicked

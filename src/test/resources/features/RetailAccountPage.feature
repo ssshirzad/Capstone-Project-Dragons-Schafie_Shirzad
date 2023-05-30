@@ -1,5 +1,5 @@
-@RetailAccountFeatures
-Feature: Retail Account Page @Regression
+@RetailAccountFeatures @Regression
+Feature: Retail Account Page 
 
   #Note: For this feature you have to have an account and be logged in into account. Repeated steps are under Background Keyword
   Background: 
