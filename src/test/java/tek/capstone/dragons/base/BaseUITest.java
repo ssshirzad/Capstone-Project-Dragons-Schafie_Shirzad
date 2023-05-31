@@ -6,6 +6,7 @@ import io.cucumber.java.Scenario;
 import tek.capstone.dragons.utilities.CommonUtility;
 
 public class BaseUITest extends CommonUtility {
+	
 	@Before
 	public void setupTests() {
 		super.setupBrowser();

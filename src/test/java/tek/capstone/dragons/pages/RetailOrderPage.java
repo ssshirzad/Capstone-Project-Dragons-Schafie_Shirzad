@@ -27,7 +27,7 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(xpath = "//*[@id=\"searchInput\"]")
 	public WebElement searchTextBox;
 	
-	@FindBy(xpath = "//select[@class='product__select']")
+	@FindBy(xpath = "/html/body/div/div[1]/div[1]/div[3]/div/div[1]/div[3]/div/div/select")
 	public WebElement quantitySelectDropdown;
 	
 	@FindBy(xpath = "//*[@id=\"addToCartBtn\"]")
@@ -90,7 +90,7 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(xpath = "/html/body/div/div[1]/div[1]/div[3]/div/div/div[1]/div[1]/p")
 	public WebElement orderCancelationMessage;
 	
-	@FindBy(xpath = "/html/body/div/div[1]/div[1]/div[3]/div/div/div/p")
+	@FindBy(xpath = "//p[text()='Return was successfull']")
 	public WebElement returnSuccessMessage;
 	
 	@FindBy(xpath = "/html/body/div/div[2]/div/div/div[1]/div[2]")

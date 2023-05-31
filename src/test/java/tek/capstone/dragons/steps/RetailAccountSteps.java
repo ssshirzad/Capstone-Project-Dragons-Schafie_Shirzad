@@ -127,8 +127,8 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("A message should be displayed update payment {string}")
 	public void aMessageShouldBeDisplayed(String paymentUpdateSuccessMessage) {
-		waitTillPresence(factory.retailAccountPage().paymentUpdateSuccessMessage);
-		Assert.assertTrue(isElementDisplayed(factory.retailAccountPage().paymentUpdateSuccessMessage));
+		waitTillPresence(factory.retailAccountPage().editDebitCardSuccessMEssage);
+		Assert.assertTrue(isElementDisplayed(factory.retailAccountPage().editDebitCardSuccessMEssage));
 		logger.info("Payment Method updated" + paymentUpdateSuccessMessage);
 	}
 
@@ -217,8 +217,9 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("A message should be displayed update address {string}")
 	public void aMessageShouldBeDisplayedUpdateAddress(String updateAddressSuccessMessage) {
-		Assert.assertTrue(factory.retailAccountPage().addAddressOption.isDisplayed());
 		waitTillPresence(factory.retailAccountPage().updateAddressSuccessMessage);
+		Assert.assertTrue(factory.retailAccountPage().updateAddressSuccessMessage.isDisplayed());
+		
 		logger.info("Address update status: " + updateAddressSuccessMessage);
 	}
 
