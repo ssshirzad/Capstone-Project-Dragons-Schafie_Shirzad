@@ -12,7 +12,7 @@ Feature: Retail Account Page
 
   @UpdateProfile  @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'Shirzad Schafie' and Phone '540-758-1198'
+    And User update Name 'Shirzad Sultan' and Phone '540-440-1198'
     And User click on Update button
     Then User profile information should be updated
     And A message should be displayed name update 'Personal Information Updated Successfully'
@@ -22,7 +22,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 9876543219876543 | Black Adam |              11 |           2025 |          321 |
+      | 9876545559876543 | Adam Black |              11 |           2025 |          321 |
     And User click on Add your card button
     Then A message should be displayed add payment 'Payment Method added successfully'
 
@@ -32,7 +32,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And User edit information with below data
       | CardNumber       | NameOnCard | ExpirationMonth | ExpirationYear | SecurityCode |
-      | 1234567890098765 | Gold Man   |              10 |           2028 |          123 |
+      | 1238887890098765 | Gold Man   |              10 |           2028 |          123 |
     And User click on Update Your Card button
     Then A message should be displayed update payment 'Payment Method updated Successfully'
 
@@ -56,7 +56,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And User fill new address form with below information
       | Country       | FullName | PhoneNumber  | StreetAddress | Apt | City     | State   | ZipCode |
-      | United States | Gold Man | 450 450 4500 | Winter Drive  | 123 | Richmond | Vermont |   98789 |
+      | United States | Asad Shirzad | 450 444 4500 | Fall Drive  | 123 | Richmond | Vermont |   98789 |
     And User click update Your Address button
     Then A message should be displayed update address 'Address Updated Successfully'
 
@@ -69,6 +69,6 @@ Feature: Retail Account Page
   Scenario: Verify user can update password
     And User enter bellow information
       | previousPassword | newPassword      | confirmPassword  |
-      | Afghanistan@1234  | UnitedStates@1234 | UnitedStates@1234 |
+      | Afghanistan@1234  | UnitedStates@123 | UnitedStates@123 |
     And User click on change password button
     Then A message should be displayed password change 'password changed successfully'

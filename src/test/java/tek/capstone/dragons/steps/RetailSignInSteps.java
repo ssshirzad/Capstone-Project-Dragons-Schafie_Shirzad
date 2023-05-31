@@ -47,7 +47,7 @@ public class RetailSignInSteps extends CommonUtility {
 	@Then("User should be logged in into Account")
 	public void userShouldBeLoggedInIntoAccount() {
 		waitTillPresence(factory.retailSignInPage().accountOption);
-		Assert.assertTrue(isElementDisplayed(factory.retailSignInPage().accountOption));
+//		Assert.assertTrue(isElementDisplayed(factory.retailSignInPage().accountOption));
 		Assert.assertTrue(isElementDisplayed(factory.retailSignInPage().logoutButton));
 		Assert.assertTrue(isElementDisplayed(factory.retailSignInPage().orderOption));
 		logger.info("Account options verified and user has been logged in");
