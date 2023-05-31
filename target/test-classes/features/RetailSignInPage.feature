@@ -16,6 +16,6 @@ Feature: Sign in/Sign Up Features
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name  | email            | password        | confirmPassword |
-      | Mcall | ZakirShirzad@gmail.com | mcallMcall@1234 | mcallMcall@1234 |
+      | Mcall | ZakirShirzadr@gmail.com | mcallMcall@1234 | mcallMcall@1234 |
     And User click on SignUp button
     And User profile page should be displayed
