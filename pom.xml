@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>tek.sdet.bdd.framework</groupId>
-	<artifactId>tek.dragons.cucumber</artifactId>
+	<groupId>tek.capstone.bdd.framework</groupId>
+	<artifactId>tek-dragons-cucumber</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tek.dragons.cucumber</name>
+	<name>tek-dragons-cucumber</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
@@ -64,12 +64,6 @@
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
 		</dependency>
-		<dependency>
-			<groupId>com.github.javafaker</groupId>
-			<artifactId>javafaker</artifactId>
-			<version>1.0.2</version>
-		</dependency>
-
 	</dependencies>
 	<build>
 		<plugins>

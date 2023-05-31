@@ -14,8 +14,8 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 		dryRun = false,
 		plugin = {
 				"pretty",
-				"html:target/htmlReports/cucumber-pretty.html",
-				"json:target/jsonReports/cucumber.json"
+				"html:target/htmlReports/capstone-pretty.html",
+				"json:target/jsonReports/capstone.json"
 				
 		},
 		snippets = CAMELCASE,
