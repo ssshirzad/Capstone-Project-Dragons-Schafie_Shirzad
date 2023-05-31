@@ -5,14 +5,14 @@ Feature: Retail Account Page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'jason5@gmail.com' and password 'Canada@1234'
+    And User enter email 'Schafie.Shirzad@tekschool.us' and password 'Afghanistan@1234'
     And User click on login button
     And User should be logged in into Account
     When User click on Account option
 
   @UpdateProfile  @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'Charlie Ocholass' and Phone '552-758-1198'
+    And User update Name 'Shirzad Schafie' and Phone '540-758-1198'
     And User click on Update button
     Then User profile information should be updated
     And A message should be displayed name update 'Personal Information Updated Successfully'
@@ -32,7 +32,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And User edit information with below data
       | CardNumber       | NameOnCard | ExpirationMonth | ExpirationYear | SecurityCode |
-      | 1234567890098765 | Aqua Man   |              10 |           2028 |          123 |
+      | 1234567890098765 | Gold Man   |              10 |           2028 |          123 |
     And User click on Update Your Card button
     Then A message should be displayed update payment 'Payment Method updated Successfully'
 
@@ -56,7 +56,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And User fill new address form with below information
       | Country       | FullName | PhoneNumber  | StreetAddress | Apt | City     | State   | ZipCode |
-      | United States | Iron Man | 450 450 4500 | Summer Drive  | 123 | Richmond | Vermont |   98789 |
+      | United States | Gold Man | 450 450 4500 | Winter Drive  | 123 | Richmond | Vermont |   98789 |
     And User click update Your Address button
     Then A message should be displayed update address 'Address Updated Successfully'
 
@@ -69,6 +69,6 @@ Feature: Retail Account Page
   Scenario: Verify user can update password
     And User enter bellow information
       | previousPassword | newPassword      | confirmPassword  |
-      | Afghanistan@123  | UnitedStates@123 | UnitedStates@123 |
+      | Afghanistan@1234  | UnitedStates@1234 | UnitedStates@1234 |
     And User click on change password button
     Then A message should be displayed password change 'password changed successfully'

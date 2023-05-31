@@ -135,7 +135,7 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "/html/body/div/div[2]/div/div/div[1]/div[2]")
 	public WebElement addAddressSuccessMessage;
 
-	@FindBy(xpath = "//div[text()='Address Updated Successfully']")
+	@FindBy(xpath = "//*[@id=\"dl59bvl\"]/div[1]/div[2]")
 	public WebElement updateAddressSuccessMessage;
 
 	@FindBy(xpath = "/html/body/div/div[2]/div/div/div[1]/div[2]")
@@ -143,7 +143,7 @@ public class RetailAccountPage extends BaseSetup {
 
 	@FindBy(xpath = "/html/body/div/div[2]/div/div/div[1]/div[2]")
 	public WebElement nameUpdateSuccessMessage;
-	@FindBy(xpath = "//div[text()='Payment Method updated Successfully']")
+	@FindBy(xpath = "//*[@id=\"ck9ddjv\"]/div[1]/div[2]")
 	public WebElement editDebitCardSuccessMEssage;
 
 //	   

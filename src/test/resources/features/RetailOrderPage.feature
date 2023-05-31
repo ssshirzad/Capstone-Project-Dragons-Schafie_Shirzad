@@ -4,7 +4,7 @@ Feature:
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'jason5@gmail.com' and password 'Canada@1234'
+    And User enter email 'Schafie.Shirzad@tekschool.us' and password 'Afghanistan@1234'
     And User click on login button
     And User should be logged in into Account
 
