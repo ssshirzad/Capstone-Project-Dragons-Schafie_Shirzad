@@ -34,7 +34,13 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click on item")
 	public void userClickOnItem() {
-		click(factory.retailOrderPage().clickOnSearchedItem);
+		click(factory.retailOrderPage().clickOnSearchedItemKasa);
+		logger.info("Searched item was clicked");
+		
+		}
+	@When("User click on searched item")
+	public void userClickOnSearchedItem() {
+		click(factory.retailOrderPage().clickOnSearchedItemKasa);
 		logger.info("Searched item was clicked");
 	}
 	
@@ -154,11 +160,11 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("Return item button was clicked");
 	}
 	
-//	@When("User select first item in list")
-//	public void userSelectFirstItemInList() {
-//		click(factory.retailOrderPage().firstItemCheckBox);
-//		logger.info("First item was selected");
-//	}
+	@When("User select first item in list")
+	public void userSelectFirstItemInList() {
+		click(factory.retailOrderPage().firstItemCheckBox);
+		logger.info("First item was selected");
+	}
 
 	@When("User select the Return Reason {string}")
 	public void userSelectTheReturnReason(String returnReason) {

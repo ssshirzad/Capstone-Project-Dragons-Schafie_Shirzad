@@ -18,8 +18,11 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(css = "#orderLink")
 	public WebElement orderButtonLink;
 	
-	@FindBy(xpath = "/html/body/div/div[1]/div[1]/div[3]/div/div")
-	public WebElement clickOnSearchedItem;
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/p[1]")
+	public WebElement clickOnSearchedItemKasa;
+	
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/p[1]")
+	public WebElement clickOnSearchedItemApex;
 	
 	@FindBy(xpath = "//*[@id=\"search\"]")
 	public WebElement allDeptDropdown;

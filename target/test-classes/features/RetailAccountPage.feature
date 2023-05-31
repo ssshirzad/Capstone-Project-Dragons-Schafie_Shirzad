@@ -5,14 +5,14 @@ Feature: Retail Account Page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'Schafie.Shirzad@tekschool.us' and password 'Afghanistan@1234'
+    And User enter email 'Schafie.Shirzad@tekschool.us' and password 'UnitedStates@123'
     And User click on login button
     And User should be logged in into Account
     When User click on Account option
 
   @UpdateProfile  @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'Shirzad Sultan' and Phone '540-440-1198'
+    And User update Name 'Zakirr Shirzad' and Phone '540-889-5190'
     And User click on Update button
     Then User profile information should be updated
     And A message should be displayed name update 'Personal Information Updated Successfully'
@@ -32,7 +32,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And User edit information with below data
       | CardNumber       | NameOnCard | ExpirationMonth | ExpirationYear | SecurityCode |
-      | 1238887890098765 | Gold Man   |              10 |           2028 |          123 |
+      | 1238800890098765 | Zakirrr Shirzad  |              10 |           2028 |          893 |
     And User click on Update Your Card button
     Then A message should be displayed update payment 'Payment Method updated Successfully'
 
@@ -47,7 +47,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And User fill address form with below information
       | Country       | FullName   | PhoneNumber  | StreetAddress | Apt | City    | State    | ZipCode |
-      | United States | Spider Man | 540 540 5440 | Winter Rd     | 321 | Henrico | Virginia |   22334 |
+      | United States | Spider Man | 540 540 5440 | Winter Rd     | 321 | Henrico | Virginia |   52334 |
     And User click Add Your Address button
     Then A message should be displayed add address 'Address Added Successfully'
 
@@ -56,7 +56,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And User fill new address form with below information
       | Country       | FullName | PhoneNumber  | StreetAddress | Apt | City     | State   | ZipCode |
-      | United States | Asad Shirzad | 450 444 4500 | Fall Drive  | 123 | Richmond | Vermont |   98789 |
+      | United States | Zakierr Shirzad | 450 444 4500 | Fall Drive  | 123 | Richmond | Vermont |   59930 |
     And User click update Your Address button
     Then A message should be displayed update address 'Address Updated Successfully'
 
@@ -69,6 +69,6 @@ Feature: Retail Account Page
   Scenario: Verify user can update password
     And User enter bellow information
       | previousPassword | newPassword      | confirmPassword  |
-      | Afghanistan@1234  | UnitedStates@123 | UnitedStates@123 |
+      | UnitedStates@123  | UnitedStates@123 | UnitedStates@123 |
     And User click on change password button
     Then A message should be displayed password change 'password changed successfully'
