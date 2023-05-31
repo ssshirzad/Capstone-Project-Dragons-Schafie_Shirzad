@@ -8,12 +8,12 @@ import org.yaml.snakeyaml.Yaml;
 
 public class ReadYamlFiles {
 	private static ReadYamlFiles readYamlFiles;
-	private HashMap propertyType;
+	private HashMap propertyMap;
 	
 	private ReadYamlFiles(String filePath) throws FileNotFoundException {
 		FileInputStream fileInputStream = FileUtility.getFileInputStream(filePath);
 		Yaml yaml = new Yaml();
-		this.propertyType = yaml.load(fileInputStream);
+		this.propertyMap = yaml.load(fileInputStream);
 	}
 	public static ReadYamlFiles getInstance(String filePath) throws FileNotFoundException {
 		if(readYamlFiles == null)
@@ -21,7 +21,7 @@ public class ReadYamlFiles {
 		return readYamlFiles;
 	}
 	public HashMap getYamlProperty(String key) {
-		return (HashMap) this.propertyType.get(key);
+		return(HashMap) this.propertyMap.get(key);
 	}
 
 }

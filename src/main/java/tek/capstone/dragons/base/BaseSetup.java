@@ -11,7 +11,7 @@ import tek.capstone.dragons.config.Browser;
 import tek.capstone.dragons.config.ChromeBrowser;
 import tek.capstone.dragons.config.ChromeHeadless;
 import tek.capstone.dragons.config.EdgeBrowser;
-import tek.capstone.dragons.config.FirefoxBrowser;
+import tek.capstone.dragons.config.FireFoxBrowser;
 import tek.capstone.dragons.utilities.ReadYamlFiles;
 
 public class BaseSetup {
@@ -21,8 +21,8 @@ public class BaseSetup {
 
 	@SuppressWarnings("static-access")
 	public BaseSetup() {
-		String filePath = System.getProperty("user.dir") + "\\src\\main\\resources\\env_config.yml";
-		String log4jPath = System.getProperty("user.dir") + "\\src\\main\\resources\\log4j.properties";
+		String filePath = System.getProperty("user.dir") + "/src/main/resources/env_config.yml";
+		String log4jPath = System.getProperty("user.dir") + "/src/main/resources/log4j.properties";
 		try {
 			environmentVariables = ReadYamlFiles.getInstance(filePath);
 		} catch (FileNotFoundException e) {
@@ -52,7 +52,7 @@ public class BaseSetup {
 			webDriver = browser.openBrowser(url);
 			break;
 		case "firefox":
-			browser = new FirefoxBrowser();
+			browser = new FireFoxBrowser();
 			webDriver = browser.openBrowser(url);
 			break;
 		case "edge":
