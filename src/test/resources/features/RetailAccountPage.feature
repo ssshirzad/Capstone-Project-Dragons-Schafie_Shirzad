@@ -12,7 +12,7 @@ Feature: Retail Account Page
 
   @UpdateProfile  @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'Charlie Chalhk' and Phone '452-758-1198'
+    And User update Name 'Charlie Chalhgk' and Phone '452-758-1198'
     And User click on Update button
     Then User profile information should be updated
     And A message should be displayed name update 'Personal Information Updated Successfully'
