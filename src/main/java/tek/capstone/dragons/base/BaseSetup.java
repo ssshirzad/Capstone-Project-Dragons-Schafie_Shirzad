@@ -19,10 +19,9 @@ public class BaseSetup {
 	private final ReadYamlFiles environmentVariables;
 	public static Logger logger;
 
-	@SuppressWarnings("static-access")
 	public BaseSetup() {
-		String filePath = System.getProperty("user.dir") + "/src/main/resources/env_config.yml";
-		String log4jPath = System.getProperty("user.dir") + "/src/main/resources/log4j.properties";
+		String filePath = System.getProperty("user.dir") + "\\src\\main\\resources\\env_config.yml";
+		String log4jPath = System.getProperty("user.dir") + "\\src\\main\\resources\\log4j.properties";
 		try {
 			environmentVariables = ReadYamlFiles.getInstance(filePath);
 		} catch (FileNotFoundException e) {
@@ -40,7 +39,7 @@ public class BaseSetup {
 
 	public void setupBrowser() {
 		HashMap uiProperty = environmentVariables.getYamlProperty("ui");
-		String url = uiProperty.get("url").toString().toLowerCase();
+		String url = uiProperty.get("url").toString();
 		Browser browser;
 		switch (uiProperty.get("browser").toString().toLowerCase()) {
 		case "chrome":
