@@ -12,7 +12,7 @@ Feature: Retail Account Page
 
   @UpdateProfile  @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'Gheias Faizie' and Phone '540-889-5190'
+    And User update Name 'Gheias Faiziie' and Phone '540-389-5190'
     And User click on Update button
     Then User profile information should be updated
     And A message should be displayed name update 'Personal Information Updated Successfully'
@@ -32,7 +32,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And User edit information with below data
       | CardNumber       | NameOnCard | ExpirationMonth | ExpirationYear | SecurityCode |
-      | 1245800890098765 | Wahed Faizie  |              10 |           2028 |          893 |
+      | 1245800890098765 | Wahed Faiziie  |              10 |           2028 |          893 |
     And User click on Update Your Card button
     Then A message should be displayed update payment 'Payment Method updated Successfully'
 
@@ -47,7 +47,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And User fill address form with below information
       | Country       | FullName   | PhoneNumber  | StreetAddress | Apt | City    | State    | ZipCode |
-      | United States | Spider Man | 540 540 5440 | Winter Rd     | 321 | Henrico | Virginia |   52334 |
+      | United States | Spider Mann | 540 540 5440 | Winter Rd     | 321 | Henrico | Virginia |   52334 |
     And User click Add Your Address button
     Then A message should be displayed add address 'Address Added Successfully'
 
@@ -56,7 +56,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And User fill new address form with below information
       | Country       | FullName | PhoneNumber  | StreetAddress | Apt | City     | State   | ZipCode |
-      | United States | Hadi Faizie | 450 444 4500 | Sang Drive  | 123 | Richmond | Vermont |   59930 |
+      | United States | Hadi Faiziie | 450 444 4500 | Sang Drive  | 123 | Richmond | Vermont |   59930 |
     And User click update Your Address button
     Then A message should be displayed update address 'Address Updated Successfully'
 
