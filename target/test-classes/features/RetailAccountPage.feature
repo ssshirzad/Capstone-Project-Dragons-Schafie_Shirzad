@@ -12,7 +12,7 @@ Feature: Retail Account Page
 
   @UpdateProfile  @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'Gul Baboo' and Phone '540-389-5190'
+    And User update Name 'Bashir Nadim' and Phone '540-389-5190'
     And User click on Update button
     Then User profile information should be updated
     And A message should be displayed name update 'Personal Information Updated Successfully'
@@ -32,7 +32,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And User edit information with below data
       | CardNumber       | NameOnCard | ExpirationMonth | ExpirationYear | SecurityCode |
-      | 1245800890098765 | Gul RahimKhan  |              10 |           2028 |          893 |
+      | 1245800890098765 | Najmodin Rasool  |              10 |           2028 |          893 |
     And User click on Update Your Card button
     Then A message should be displayed update payment 'Payment Method updated Successfully'
 
@@ -56,7 +56,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And User fill new address form with below information
       | Country       | FullName | PhoneNumber  | StreetAddress | Apt | City     | State   | ZipCode |
-      | United States | Super Man | 450 444 4500 | Sang Drive  | 123 | Richmond | Vermont |   59930 |
+      | United States | Zia Mashal | 450 444 4500 | Sang Drive  | 123 | Richmond | Vermont |   59930 |
     And User click update Your Address button
     Then A message should be displayed update address 'Address Updated Successfully'
 

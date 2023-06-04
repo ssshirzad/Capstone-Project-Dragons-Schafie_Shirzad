@@ -1,5 +1,5 @@
 @RetailSigIn/SignUpFeatures @Regression
-Feature: Sign in/Sign Up Features
+Feature: SignInn/SignUp Page 
 
   Background: 
     Given User is on retail website
@@ -16,6 +16,6 @@ Feature: Sign in/Sign Up Features
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name  | email            | password        | confirmPassword |
-      | Mcall | GulRahmanKhan@gmail.com | mcallMcall@1234 | mcallMcall@1234 |
+      | Mcall | BashirHayat@gmail.com | mcallMcall@1234 | mcallMcall@1234 |
     And User click on SignUp button
     And User profile page should be displayed
