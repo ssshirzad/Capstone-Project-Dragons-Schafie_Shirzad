@@ -19,7 +19,7 @@ public class RetailOrderPage extends BaseSetup {
 	public WebElement orderButtonLink;
 	
 	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/p[1]")
-	public WebElement clickOnSearchedItemKasa;
+	public WebElement clickOnSearchedItem;
 	
 	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/p[1]")
 	public WebElement clickOnSearchedItemApex;
@@ -105,8 +105,14 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(xpath = "/html/body/div/div[1]/div[1]/div[3]/div/div/div[1]/p")
 	public WebElement orderPlacedConfirmation;
 	
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/div[1]/div[2]/div/div/div[3]/div/p/span[2]")
+	public WebElement deleteItemFromCart;
 	
-	
+	public void clearCart() {
+		cartOption.click();
+		deleteItemFromCart.click();
+		
+	}
 	
 	
 

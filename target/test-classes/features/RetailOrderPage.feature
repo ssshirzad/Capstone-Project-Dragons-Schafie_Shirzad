@@ -1,5 +1,5 @@
 @RetailOrderPageFreatures @Regression
-Feature: 
+Feature: Retail Order Page
 
   Background: 
     Given User is on retail website
@@ -13,7 +13,7 @@ Feature:
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
     And User click on Search icon
-    And User click on item
+    And User click on searched item
     And User select quantity adding '2’
     And User click add to Cart button
     Then The cart icon quantity should change to '2’
@@ -24,10 +24,10 @@ Feature:
     And User search for an item 'Apex Legends'
     And User click on Search icon
     And User click on searched item
-    And User select quantity ordering '5'
+    And User select quantity '5'
     And User click add to Cart button
     Then The cart icon quantity should change to ordering '5’
-    And User click on Cart option
+    And User click on cart option
     And User click on Proceed to Checkout button
     And User click on Place Your Order
     Then A message should be displayed 'Order Placed Successfully'

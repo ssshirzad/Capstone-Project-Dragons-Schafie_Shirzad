@@ -11,13 +11,12 @@ import tek.capstone.dragons.utilities.CommonUtility;
 
 public class RetailOrderSteps extends CommonUtility {
 	POMFactory factory = new POMFactory();
+	private String orderPlacedConfirmation;
 
-	// -----------Scenario: Verify User can add an item to cart----------------
 	@When("User change the category to {string}")
 	public void userChangeTheCategoryTo(String string) {
-		click(factory.retailOrderPage().allDeptDropdown);
 		selectByVisibleText(factory.retailOrderPage().allDeptDropdown, string);
-		logger.info(string +" :selected");
+		logger.info(string + " : was entered to be searched");
 	}
 
 	@When("User search for an item {string}")
@@ -32,21 +31,15 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("Search icon was clicked");
 	}
 
-	@When("User click on item")
-	public void userClickOnItem() {
-		click(factory.retailOrderPage().clickOnSearchedItemKasa);
-		logger.info("Searched item was clicked");
-		
-		}
 	@When("User click on searched item")
 	public void userClickOnSearchedItem() {
-		click(factory.retailOrderPage().clickOnSearchedItemKasa);
+		click(factory.retailOrderPage().clickOnSearchedItem);
 		logger.info("Searched item was clicked");
 	}
-	
+
 	@When("User select quantity adding '{int}’")
-	public void userSelectQuantity(int int1) {
-		selectByValue(factory.retailOrderPage().allDeptDropdown, "2");
+	public void userSelectQuantityAdding(Integer int1) {
+		selectByValue(factory.retailOrderPage().quantitySelectDropdown, "2");
 		logger.info(int1 + " number of item was selected");
 	}
 
@@ -55,44 +48,38 @@ public class RetailOrderSteps extends CommonUtility {
 		click(factory.retailOrderPage().addToCardButton);
 		logger.info("Add to cart button was clicked");
 	}
-	
+
 	@Then("The cart icon quantity should change to '{int}’")
-	public void theCartIconQuantityShouldChangeTo(Integer int1) {
-		int expectedQuantity = int1;
-		Assert.assertEquals(expectedQuantity, 2);
-		logger.info(int1 + " number of items was added to the cart");
+	public void theCartIconQuantityShouldChangeTo(Integer quantity) {
+		int actuallQuantity = quantity;
+		int expectedQuantity = 2;
+		Assert.assertEquals(expectedQuantity, actuallQuantity);
+		logger.info(quantity + " number of items was added to the cart");
+		factory.retailOrderPage().clearCart();
+		slowDown();
 	}
 
+	// -----------Scenario: Verify User can add an item to cart----------------
 
-	//Scenario: Verify User can place an order with Shipping address and payment Method on file
-	
-	@When("And User search for an item {string}")
-	public void userSearchForAnItem1(String string) {
-		sendText(factory.retailOrderPage().searchTextBox, string);
-		logger.info(string + " was entered to be searched");
-
-	}
-
-	@When("User select quantity ordering {string}")
-	public void userSelectQuantityOrdering(String quantity) {
-		selectByVisibleText(factory.retailOrderPage().quantitySelectDropdown, "5");
+	@When("User select quantity {string}")
+	public void userSelectQuantity(String quantity) {
+		selectByVisibleText(factory.retailOrderPage().quantitySelectDropdown, quantity);
 		logger.info(quantity + " was selected for quantity");
-
 	}
 
 	@Then("The cart icon quantity should change to ordering '{int}’")
-	public void theCartIconQuantityShouldChangeToOrdering(Integer int1) {
-		int expectedQuantity = int1;
-		Assert.assertEquals(expectedQuantity, 5);
-		logger.info(int1 + " number of items were added to the cart");
-
+	public void theCartIconQuantityShouldChangeToOrdering(Integer quantity) {
+		int expectedQuantity = quantity;
+		int actualQuantity = 5;
+		Assert.assertEquals(expectedQuantity, actualQuantity);
 	}
 
-	@Then("User click on Cart option")
+	@When("User click on cart option")
 	public void userClickOnCartOption() {
 		click(factory.retailOrderPage().cartOption);
 		logger.info("Cart option was clicked");
 	}
+
 
 	@Then("User click on Proceed to Checkout button")
 	public void userClickOnProceedToCheckoutButton() {
@@ -112,16 +99,17 @@ public class RetailOrderSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.retailOrderPage().orderPlacedSuccessMessage));
 		logger.info(string + " ,message was displayed");
 	}
-	
+
 	@Then("A confirmation page should be displayed {string}")
-	public void aConfirmationPageShouldBeDisplayed(String confirmationMessage) {
+	public void aConfirmationPageShouldBeDisplayed(String string) {
 		waitTillPresence(factory.retailOrderPage().orderPlacedConfirmation);
 		Assert.assertTrue(isElementDisplayed(factory.retailOrderPage().orderPlacedConfirmation));
-		logger.info(confirmationMessage + " was displayed");
+		logger.info(orderPlacedConfirmation + " was displayed");
 	}
-	
-	//----------Scenario: Verify User can cancel the order----------------------
-	
+
+
+	// ----------Scenario: Verify User can cancel the order----------------------
+
 	@When("User click on Orders section")
 	public void userClickOnOrdersSection() {
 		click(factory.retailOrderPage().orderButtonLink);
@@ -151,15 +139,15 @@ public class RetailOrderSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.retailOrderPage().orderCancelationMessage));
 		logger.info(cancelationMessage + " , was displayed");
 	}
-	
-	//----------Scenario: Verify User can Return the order------------
+
+	// ----------Scenario: Verify User can Return the order------------
 
 	@When("User click on Return Items button")
 	public void userClickOnReturnItemsButton() {
 		click(factory.retailOrderPage().returnItemButton);
 		logger.info("Return item button was clicked");
 	}
-	
+
 	@When("User select first item in list")
 	public void userSelectFirstItemInList() {
 		click(factory.retailOrderPage().firstItemCheckBox);
@@ -192,8 +180,8 @@ public class RetailOrderSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.retailOrderPage().returnSuccessMessage));
 		logger.info(returnMessage + " was displayed");
 	}
-	
-	//-----Scenario: Verify User can write a review on order placed-------
+
+	// -----Scenario: Verify User can write a review on order placed-------
 
 	@When("User click on Review button")
 	public void userClickOnReviewButton() {
@@ -206,7 +194,7 @@ public class RetailOrderSteps extends CommonUtility {
 		sendText(factory.retailOrderPage().reviewHeadlineBox, reviewHeadline);
 		logger.info("Review headline entered");
 	}
-	
+
 	@When("User write Review Body {string}")
 	public void userWriteReviewBody(String reviewBody) {
 		sendText(factory.retailOrderPage().reviewBody, reviewBody);
@@ -223,9 +211,7 @@ public class RetailOrderSteps extends CommonUtility {
 	public void aReviewMessageShouldBeDisplayed(String reviewSuccessMessage) {
 		waitTillPresence(factory.retailOrderPage().reviewSuccessMessage);
 		Assert.assertTrue(isElementDisplayed(factory.retailOrderPage().reviewSuccessMessage));
-		
+
 	}
-
-
 
 }
